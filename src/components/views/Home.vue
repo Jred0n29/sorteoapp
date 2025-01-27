@@ -6,7 +6,7 @@
 
                 <div class="flex flex-col  p-4 ">
                     <h1 class="text-5xl m-2 md:text-5xl font-pop font-extrabold  text-primary-black">
-                        Rifas The Clover Money..!
+                        The Clover Money..!
                     </h1>
 
                    
