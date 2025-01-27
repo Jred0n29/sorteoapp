@@ -2,11 +2,11 @@
     <section class="relative" id="Inicio">
         <div class="container flex flex-col md:grid gap-x-5 grid-rows-1 grid-cols-2 max-w-screen-xl content-center flex-wrap justify-center mt-48 mb-10 mx-auto items-center">
             <div class="mx-4">
-                <span class="absolute -top-20 left-70 md:-top-20 md:left-40 w-[100px] h-[100px]  md:w-[220px] md:h-[220px] bg-no-repeat bg-center bg-contain" style="background-image: url('/src/assets/ticket6.svg');"></span>
+                <img class="absolute -top-20 left-70 md:-top-20 md:left-40 w-[100px] h-[100px]  md:w-[220px] md:h-[220px] bg-no-repeat bg-center bg-contain" src="/src/assets/ticket6.svg">
 
                 <div class="flex flex-col  p-4 ">
-                    <h1 class="text-5xl m-2 md:text-6xl font-pop font-extrabold  text-primary-black">
-                        Rifas El Trebol..!
+                    <h1 class="text-5xl m-2 md:text-5xl font-pop font-extrabold  text-primary-black">
+                        Rifas The Clover Money..!
                     </h1>
 
                    
@@ -27,8 +27,8 @@
             </div>
             
             <div class="relative mb-20">
-                <span class="absolute -bottom-30 -left-30  w-[100px] h-[100px]  md:w-[220px] md:h-[220px] bg-no-repeat bg-center bg-contain" style="background-image: url('/src/assets/ticket6.svg');"></span>
-                <span class="absolute -top-35 -right-15 md:-top-30 md:-right-0  w-[100px] h-[100px]  md:w-[220px] md:h-[220px] bg-no-repeat bg-center bg-contain" style="background-image: url('/src/assets/ticket7.svg');"></span>
+                <img class="absolute -bottom-30 -left-30  w-[100px] h-[100px]  md:w-[220px] md:h-[220px] bg-no-repeat bg-center bg-contain" src="/src/assets/ticket6.svg">
+                <img class="absolute -top-35 -right-15 md:-top-30 md:-right-0  w-[100px] h-[100px]  md:w-[220px] md:h-[220px] bg-no-repeat bg-center bg-contain" src="/src/assets/ticket7.svg" >
 
                 <div class="object-fill flex flex-col items-center p-2">
                     <!-- SVG superpuesto debajo de la imagen -->

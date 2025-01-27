@@ -24,7 +24,7 @@ export default {
     <div class="gap-y-2 flex flex-col md:max-w-screen-xl md:flex-row flex-wrap items-center justify-between mx-auto p-4">
       <a href="" class="flex items-center space-x-3 rtl:space-x-reverse">
         <img src="/src/assets/clover.svg" class="h-12" alt="Logo trebol">
-        <span class="self-center text-primary-black text-2xl font-bold whitespace-nowrap">El Trebol</span>
+        <span class="self-center text-primary-black text-2xl font-bold whitespace-nowrap">The Clover</span>
       </a>
       <div class="flex flex-col md:flex-row items-center md:order-2 space-x-1 md:space-x-0 rtl:space-x-reverse">
         <button
