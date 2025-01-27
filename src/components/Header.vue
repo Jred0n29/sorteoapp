@@ -27,13 +27,14 @@ export default {
         <span class="self-center text-primary-black text-2xl font-bold whitespace-nowrap">The Clover</span>
       </a>
       <div class="flex flex-col md:flex-row items-center md:order-2 space-x-1 md:space-x-0 rtl:space-x-reverse">
-        <button
-          type="button"
-          class="text-primary-green border-2 border-primary-green flex flex-row gap-x-2 items-center font-bold rounded-lg text-sm px-5 py-2.5 text-center"
-        >
-          Unete a Wpp!
-          <img src="/src/assets/wppcolor.svg" class="h-8" alt="Logo">
-        </button>
+        <a href="#_" class="box-border relative z-30 inline-flex items-center justify-center w-auto px-8 py-3 overflow-hidden font-bold text-white transition-all duration-500 bg-red-500 rounded-md cursor-pointer group ring-offset-2 ring-1 ring-red-300 ring-offset-red-200 ease focus:outline-none transform animate-pulseUpDown">
+                    <span class="absolute bottom-0 right-0 w-8 h-20 -mb-8 -mr-5 transition-all duration-300 ease-out transform rotate-45 translate-x-1 bg-white opacity-20 group-hover:translate-x-0"></span>
+                    <span class="absolute top-0 left-0 w-20 h-8 -mt-1 -ml-12 transition-all duration-300 ease-out transform -rotate-45 -translate-x-1 bg-white opacity-20 group-hover:translate-x-0"></span>
+                    <span class="relative z-20 flex items-center text-sm">
+                        Unete A Nuestro Grupo
+                    </span>
+                    <img class="w-6 h-6 me-2 ml-2" src="/src/assets/wppcolor.svg" alt=""> 
+                </a>
 
         <!-- Botón de despliegue del menú -->
         <button
