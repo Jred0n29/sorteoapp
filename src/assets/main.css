@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+   
+    --font-inter: "Inter";
+    --font-pop:"Poppins";
+    --color-purple: #3f3cbb;
+    --color-primary-black:#262626;   
+} 
