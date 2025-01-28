@@ -1,18 +1,18 @@
 <template>
-    <section class="relative" id="Inicio">
+    <section class="relative dark:bg-gray-900" id="Inicio">
         <div class="container flex flex-col md:grid gap-x-5 grid-rows-1 grid-cols-2 max-w-screen-xl content-center flex-wrap justify-center mt-48 mb-10 mx-auto items-center">
             <div class="mx-4">
                 <img class="absolute -top-25 left-0 md:-top-20 md:left-40 w-[100px] h-[100px]  md:w-[220px] md:h-[220px] bg-no-repeat bg-center bg-contain" src="/src/assets/ticket6.svg">
 
                 <div class="flex flex-col  p-4 ">
-                    <h1 class="text-5xl m-2 md:text-5xl font-pop font-extrabold  text-primary-black">
+                    <h1 class=" dark:text-white text-5xl m-2 md:text-5xl font-pop font-extrabold  text-primary-black">
                         The Clover Money..!
                     </h1>
 
                    
                 </div>
                 <div class="mt-6 flex flex-col p-4">
-                    <p class="m-2 font-regular text-gray-500">
+                    <p class="m-2 font-regular text-gray-500 dark:text-gray-300">
                         Bienvenidos a la plataforma líder en rifas y sorteos. Disfruta de sorteos diarios y semanales con premios increíbles.
                         Nos caracterizamos por nuestra seriedad, transparencia y compromiso, garantizando confianza y satisfacción en cada participación.
                         ¡Tu próxima gran oportunidad comienza aquí!

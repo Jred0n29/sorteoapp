@@ -25,7 +25,7 @@ export default {
 </script>
 <template>
    
-   <div id="app" class="font-inter tracking-wide">
+   <div id="app" class="font-inter tracking-wide dark:bg-gray-900" data-theme="dark" >
     <Header/>
     <Home/>
     <Questions/>
