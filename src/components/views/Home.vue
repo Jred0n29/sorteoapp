@@ -38,8 +38,8 @@
             </div>
             
             <div class="relative my-18">
-                <img class="absolute -bottom-20 -left-15 w-[100px] h-[100px] md:w-[220px] md:h-[220px] bg-no-repeat bg-center bg-contain" src="/src/assets/ticket6.svg">
-                <img class="absolute -top-35 -right-15 md:-top-30 md:-right-0 w-[100px] h-[100px] md:w-[220px] md:h-[220px] bg-no-repeat bg-center bg-contain" src="/src/assets/ticket7.svg">
+                <img class="absolute -bottom-20 -left-15 w-[100px] h-[100px] hidden md:block md:w-[220px] md:h-[220px] bg-no-repeat bg-center bg-contain" src="/src/assets/ticket6.svg">
+                    <img class="absolute -top-35 -right-15 md:-top-30 md:-right-0 w-[100px] h-[100px] md:w-[220px] md:h-[220px] bg-no-repeat bg-center bg-contain" src="/src/assets/ticket7.svg">
 
                 <div class="object-fill flex flex-col items-center p-2">
                     <img class="relative w-full md:w-96 md:h-96" src="/src/assets/clover.svg" alt="Imagen de trébol">
