@@ -32,7 +32,7 @@
     </div>
    
     <div
-      class="flex flex-col justify-center items-center bg-[#FFF6F3] px-4 h-[126px] w-[70%] md:w-[281px] md:h-[192px] rounded-lg justify-self-center">
+      class="flex flex-col justify-center items-center shadow-xl bg-[#FFF6F3] px-4 h-[126px] w-[70%] md:w-[281px] md:h-[192px] rounded-lg justify-self-center">
       <div class="flex flex-row justify-center items-center">
         <svg class="w-[35px] h-[35px] md:w-[50px] md:h-[50px]" viewBox="0 0 50 50" fill="none"
           xmlns="http://www.w3.org/2000/svg">
@@ -53,7 +53,7 @@
       <p class="font-medium text-base sm:text-lg leading-6 mt-3 md:mt-6 text-center">Miembros Activos</p>
     </div>
     <div
-      class="flex flex-col justify-center items-center bg-[#FFF6F3] px-4 h-[126px] w-[70%] md:w-[281px] md:h-[192px] rounded-lg justify-self-center">
+      class="flex flex-col justify-center items-center shadow-xl bg-[#FFF6F3] px-4 h-[126px] w-[70%] md:w-[281px] md:h-[192px] rounded-lg justify-self-center">
       <div class="flex flex-row justify-center items-center">
         <svg class="w-[35px] h-[35px] md:w-[50px] md:h-[50px]" viewBox="0 0 51 50" fill="none"
           xmlns="http://www.w3.org/2000/svg">
