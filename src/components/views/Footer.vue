@@ -21,7 +21,7 @@
                         <a href="#Preguntas" class="hover:underline me-4 md:me-6">Preguntas Frecuentes</a>
                     </li>
                     <li>
-                        <a href="#" class="hover:underline">Grupo de WhatsApp</a>
+                        <a href="https://chat.whatsapp.com/LCZGUO9ER6tL7ZcjspVQx4" class="hover:underline">Grupo de WhatsApp</a>
                     </li>
                 </ul>
             </div>
