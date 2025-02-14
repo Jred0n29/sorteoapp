@@ -9,13 +9,7 @@
       
 
        
-        <video class="h-[70%] w-[70%] md:h-[90%] md:w-[90%] rounded-lg " controls>
-          <source
-            src="/src/assets/videos/jaider.mp4"
-            type="video/mp4"
-          />
-          Your browser does not support the video tag.
-        </video>
+       
        
         <video class="h-[70%] w-[70%] md:h-[90%] md:w-[90%] rounded-lg" controls>
       <source
